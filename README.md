@@ -2,7 +2,7 @@
 -----| ----- 
 **Name** | packet_counters.sh
 **Date Created** | 2022-11-17
-**Version** | 0.3
+**Version** | v0.3.1
 **Date Updated**| 2022-11-22
 
 ## Description
