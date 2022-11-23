@@ -6,4 +6,4 @@ sudo cat /proc/net/xfrm_stat
 sudo sar -n DEV 1 1 
 sudo sar -n EDEV 1 1 
 sudo cat /proc/net/softnet_stat  
-sudo mpstat -P all
+sudo mpstat -P ALL
