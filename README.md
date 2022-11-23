@@ -47,3 +47,5 @@ sudo rm -f /etc/localgateway/counter_output* (Delete all output files)
 sudo rm -f /etc/localgateway/packet_counters*
 ```
 
+## References
+https://linuxhandbook.com/bash-printf/
