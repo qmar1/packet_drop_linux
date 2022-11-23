@@ -1,7 +1,7 @@
 sudo ethtool -S eth0 
 sudo ip -s -s link show eth0
-sudo ip -s link show tun-0A650024-0
-sudo ip -s tun show tun-0A650024-0
+sudo ip -s link show 
+sudo ip -s tun show 
 sudo cat /proc/net/xfrm_stat
 sudo sar -n DEV 1 1 
 sudo sar -n EDEV 1 1 
